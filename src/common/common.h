@@ -1,4 +1,4 @@
-/*! \file common2_0.h
+/*! \file common.h
     \brief All the common functions
 */
 

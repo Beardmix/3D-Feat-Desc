@@ -1,4 +1,4 @@
-#include "common2_0.h"
+#include "common.h"
 
 PCLCloud // Fills the cloud sent in parameters, following the resquested number
 loadCloud(char * number)
