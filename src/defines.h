@@ -5,6 +5,12 @@
 #ifndef DEFINES_H_INCLUDED
 #define DEFINES_H_INCLUDED
 
+#include <pcl/point_types.h>
+#include <pcl/visualization/cloud_viewer.h>
+#include <vector>
+#include <boost/spirit/include/classic.hpp>
+#include <Eigen/Eigen>
+
 /*! 5D Boost vector of int */
 typedef boost::shared_ptr<std::vector<std::vector<std::vector<std::vector<std::vector<int> > > > > > BoostVector5Int; 
 /*! 5D vector of int */

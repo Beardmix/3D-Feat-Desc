@@ -8,6 +8,9 @@
 #include "../defines.h"
 #include "../Match/Match.h"
 
+#include <vector>
+#include <Eigen/Eigen>
+
 /*! \class Search
    * \brief Class searching for the best point
    *

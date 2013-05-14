@@ -8,6 +8,8 @@
 #include "../defines.h"
 #include "../Signature/Signature.h"
 
+#include <iostream>
+
 /*! \class Match
    * \brief Class dealing with signatures matching
    *

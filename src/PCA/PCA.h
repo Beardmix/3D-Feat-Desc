@@ -4,6 +4,9 @@
 
 #include "../defines.h"
 
+#include <vector>
+#include <Eigen/Eigen>
+
 /*! \class PCA
    * \brief Class for Principal Component Analysis computation
    *

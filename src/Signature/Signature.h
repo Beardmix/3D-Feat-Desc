@@ -10,6 +10,9 @@
 #include "../PCA/PCA.h"
 #include "../SplitSpace/SplitSpace.h"
 
+#include <iostream>
+#include <vector>
+
 /*! \class Signature
    * \brief Class for signature computation and storage
    *

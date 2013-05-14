@@ -6,6 +6,8 @@
 #define COMMON_H_INCLUDED
 
 #include "../defines.h"
+#include <Eigen/Eigen>
+#include <pcl/io/pcd_io.h> // Included in order to load clouds
 
 /*! \brief Fills the cloud sent in parameters, following the resquested number
     \param [in] number The number of the cloud to load

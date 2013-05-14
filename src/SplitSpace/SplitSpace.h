@@ -9,6 +9,7 @@
 #include "../common/common.h"
 #include "../PCA/PCA.h"
 
+#include <Eigen/Eigen>
 
 
 /*! \class SplitSpace
